@@ -5,14 +5,14 @@ Este projeto foi feito como parte do curso de Formação Java e Orientação a O
 
 <h2 align="center"> Como Usar o Aplicativo </h2>
 
-Você só precisa digitar a opção correspondente ao par de moedas com o qual deseja trabalhar e clica no "Enter". Depois digita o valor a ser convertido. 
+Você só precisa digitar a opção correspondente ao par de moedas com o qual deseja trabalhar e clica no "Enter". Depois digite o valor a ser convertido. 
 
 <p align="center">
-<img src="Conversor de Moedas1.png"/>
+<img src="Conversor de Moedas 1.png"/>
 </p>
 
 Ao clicar no "Enter", o aplicativo faz a conversão e exibe na tela uma mensagem contendo a moeda e o valor inicial e a moeda solicitada para fazer a conversão e o valor já convertido.
 
 <p align="center">
-<img src="Captura de tela 2025-02-23 225009.png"/>
+<img src="Conversor de Moedas 2.png"/>
 </p>
