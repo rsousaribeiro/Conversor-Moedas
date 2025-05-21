@@ -8,7 +8,7 @@ Este projeto foi feito como parte do curso de Formação Java e Orientação a O
 Você só precisa digitar a opção correspondente ao par de moedas com o qual deseja trabalhar e clica no "Enter". Depois digita o valor a ser convertido. 
 
 <p align="center">
-<img src= ![Conversor de Moedas 1](https://github.com/user-attachments/assets/05f62d8c-cc24-4279-bb88-aaf35f03379f)/>
+<img src="Conversor de Moedas1.png"/>
 </p>
 
 Ao clicar no "Enter", o aplicativo faz a conversão e exibe na tela uma mensagem contendo a moeda e o valor inicial e a moeda solicitada para fazer a conversão e o valor já convertido.
